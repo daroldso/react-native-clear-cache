@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.popbo.clearcache;
 
 import java.util.Arrays;
 import java.util.Collections;

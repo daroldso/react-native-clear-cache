@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.popbo.clearcache;
 
 import android.os.AsyncTask;
 import android.util.Log;

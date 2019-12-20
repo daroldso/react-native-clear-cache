@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.popbo.clearcache;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;
